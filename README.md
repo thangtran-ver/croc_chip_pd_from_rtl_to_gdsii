@@ -207,4 +207,3 @@ verify_drc -limit 1000 -report drc_postRoute.rpt
 
 - The flow is fully script-driven, so every stage can be re-run from its Tcl file.
 - Innovus logs, reports and saved databases are kept as debug references.
-- Screenshots are taken from the implementation runs; local tool paths have been removed.
